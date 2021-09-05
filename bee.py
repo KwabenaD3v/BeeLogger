@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Copyright 2017 BeeLogger
 # Written by: * Alisson Moretto - 4w4k3
-# https://github.com/4w4k3/BeeLogger
+# https://github.com/KwabenaD3v/BeeLogger
 # Licensed under the BSD-3-Clause
 import os
 import sys
@@ -47,7 +47,7 @@ def warn():
             \ (     ) /                    DISABLE IT ON 
  ____________(%%%%%%%)____________                 TARGET IN MSCONFIG !
 (     /   /  )%%%%%%%(  \   \     )
-(___/___/__/           \__\___\___)     https://github.com/4w4k3/BeeLogger
+(___/___/__/           \__\___\___)     https://github.com/KwabenaD3v/BeeLogger
    (     /  / (%%%%%%) \  \     ) 
     (__/___/   (%%%%)  \___\__)                 
 ''' + RED + '''       [ Disclaimer Alert ]''' + YELLOW +  ''' 
